@@ -83,7 +83,7 @@ Multi-Channel Audio Tool is a utility for selectively extracting or mixing chann
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/ejeonghun/multi-channel-audio-tool.git
    cd 채널분리_chatgpt
    ```
 
