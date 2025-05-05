@@ -15,14 +15,13 @@
 - 비디오 파일의 다양한 오디오 트랙 선택 가능
 - 각 채널별 볼륨 실시간 조절 및 미리듣기
 - 스테레오 또는 5.1 포맷으로 오디오 추출
-- 현재 재생 중인 구간의 마지막 10초 클립 저장 기능
 
 ### 설치 방법
 
 1. 이 저장소를 클론합니다:
    ```
    git clone https://github.com/ejeonghun/multi-channel-audio-tool.git
-   cd 채널분리_chatgpt
+   cd multi-channel-audio-tool
    ```
 
 2. 필요한 패키지를 설치합니다:
@@ -79,14 +78,13 @@ Multi-Channel Audio Tool is a utility for selectively extracting or mixing chann
 - Select from multiple audio tracks in video files
 - Real-time adjustment and preview of individual channel volumes
 - Export audio in stereo or 5.1 format
-- Save the last 10 seconds of currently playing segment as a clip
 
 ### Installation
 
 1. Clone this repository:
    ```
    git clone https://github.com/ejeonghun/multi-channel-audio-tool.git
-   cd 채널분리_chatgpt
+   cd multi-channel-audio-tool
    ```
 
 2. Install the required packages:
