@@ -3,6 +3,8 @@
 [English](#multi-channel-audio-tool) | [한국어](#멀티채널-오디오-도구)
 
 ---
+<div align="center">"><img src="https://github.com/user-attachments/assets/a414d079-3f17-4747-b996-172209d1bf47"></div>
+
 
 ## 멀티채널 오디오 도구
 
