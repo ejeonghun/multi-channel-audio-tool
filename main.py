@@ -64,14 +64,14 @@ class MainWindow(QWidget):
         root.addLayout(self.ctrl_layout)
         root.addWidget(self.btn_play)
         root.addWidget(self.btn_export)
-        root.addWidget(self.btn_clip)
+        # root.addWidget(self.btn_clip)
 
         # ── 시그널 ──
         self.btn_open.clicked.connect(self.open_file)
         self.track_box.currentIndexChanged.connect(self.track_changed)
         self.btn_play.clicked.connect(self.play_clicked)
         self.btn_export.clicked.connect(self.export_clicked)
-        self.btn_clip.clicked.connect(self.export_clip)
+        # self.btn_clip.clicked.connect(self.export_clip)
 
     # ---------- 도우미 ----------
     def _vol_map(self): return {ch: ctrl.volume for ch, ctrl in self.controls.items()}
